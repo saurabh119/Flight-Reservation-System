@@ -8,6 +8,7 @@ Travel will take place between October 1, 2016 and November13, 2016.
 Each flight has 15 seats. Passengers can book for a maximum of 10 seats. Booking requires just one name. 
 
 For running this project:
+
 1. Open the terminal
 2. Go to the directory
 3. Type "java -jar FRS.jar spicejet.csv silkair.csv" without quotes.
